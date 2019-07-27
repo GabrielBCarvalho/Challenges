@@ -1,0 +1,10 @@
+C:\Users\Gabriel\Documents\Ringa\Desafio2_Validador-CPF\obj\Debug\netcoreapp2.0\Desafio2_Validador-CPF.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Ringa\Desafio2_Validador-CPF\obj\Debug\netcoreapp2.0\Desafio2_Validador-CPF.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Ringa\Desafio2_Validador-CPF\obj\Debug\netcoreapp2.0\Desafio2_Validador-CPF.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Ringa\Desafio2_Validador-CPF\bin\Debug\netcoreapp2.0\Desafio2_Validador-CPF.deps.json
+C:\Users\Gabriel\Documents\Ringa\Desafio2_Validador-CPF\bin\Debug\netcoreapp2.0\Desafio2_Validador-CPF.runtimeconfig.json
+C:\Users\Gabriel\Documents\Ringa\Desafio2_Validador-CPF\bin\Debug\netcoreapp2.0\Desafio2_Validador-CPF.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\Ringa\Desafio2_Validador-CPF\bin\Debug\netcoreapp2.0\Desafio2_Validador-CPF.dll
+C:\Users\Gabriel\Documents\Ringa\Desafio2_Validador-CPF\bin\Debug\netcoreapp2.0\Desafio2_Validador-CPF.pdb
+C:\Users\Gabriel\Documents\Ringa\Desafio2_Validador-CPF\obj\Debug\netcoreapp2.0\Desafio2_Validador-CPF.dll
+C:\Users\Gabriel\Documents\Ringa\Desafio2_Validador-CPF\obj\Debug\netcoreapp2.0\Desafio2_Validador-CPF.pdb

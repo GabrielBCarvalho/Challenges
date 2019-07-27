@@ -1,0 +1,10 @@
+C:\Users\Gabriel\Documents\Ringa\Desafio3_Sequencia-Numeros\obj\Debug\netcoreapp2.0\Desafio3_Sequencia-Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Ringa\Desafio3_Sequencia-Numeros\obj\Debug\netcoreapp2.0\Desafio3_Sequencia-Numeros.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Ringa\Desafio3_Sequencia-Numeros\obj\Debug\netcoreapp2.0\Desafio3_Sequencia-Numeros.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Ringa\Desafio3_Sequencia-Numeros\bin\Debug\netcoreapp2.0\Desafio3_Sequencia-Numeros.deps.json
+C:\Users\Gabriel\Documents\Ringa\Desafio3_Sequencia-Numeros\bin\Debug\netcoreapp2.0\Desafio3_Sequencia-Numeros.runtimeconfig.json
+C:\Users\Gabriel\Documents\Ringa\Desafio3_Sequencia-Numeros\bin\Debug\netcoreapp2.0\Desafio3_Sequencia-Numeros.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\Ringa\Desafio3_Sequencia-Numeros\bin\Debug\netcoreapp2.0\Desafio3_Sequencia-Numeros.dll
+C:\Users\Gabriel\Documents\Ringa\Desafio3_Sequencia-Numeros\bin\Debug\netcoreapp2.0\Desafio3_Sequencia-Numeros.pdb
+C:\Users\Gabriel\Documents\Ringa\Desafio3_Sequencia-Numeros\obj\Debug\netcoreapp2.0\Desafio3_Sequencia-Numeros.dll
+C:\Users\Gabriel\Documents\Ringa\Desafio3_Sequencia-Numeros\obj\Debug\netcoreapp2.0\Desafio3_Sequencia-Numeros.pdb

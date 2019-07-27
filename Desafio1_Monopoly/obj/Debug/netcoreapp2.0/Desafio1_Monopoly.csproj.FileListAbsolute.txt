@@ -1,0 +1,10 @@
+C:\Users\Gabriel\Documents\Ringa\Desafio1_Monopoly\bin\Debug\netcoreapp2.0\Desafio1_Monopoly.deps.json
+C:\Users\Gabriel\Documents\Ringa\Desafio1_Monopoly\bin\Debug\netcoreapp2.0\Desafio1_Monopoly.runtimeconfig.json
+C:\Users\Gabriel\Documents\Ringa\Desafio1_Monopoly\bin\Debug\netcoreapp2.0\Desafio1_Monopoly.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\Ringa\Desafio1_Monopoly\bin\Debug\netcoreapp2.0\Desafio1_Monopoly.dll
+C:\Users\Gabriel\Documents\Ringa\Desafio1_Monopoly\bin\Debug\netcoreapp2.0\Desafio1_Monopoly.pdb
+C:\Users\Gabriel\Documents\Ringa\Desafio1_Monopoly\obj\Debug\netcoreapp2.0\Desafio1_Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Ringa\Desafio1_Monopoly\obj\Debug\netcoreapp2.0\Desafio1_Monopoly.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Ringa\Desafio1_Monopoly\obj\Debug\netcoreapp2.0\Desafio1_Monopoly.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Ringa\Desafio1_Monopoly\obj\Debug\netcoreapp2.0\Desafio1_Monopoly.dll
+C:\Users\Gabriel\Documents\Ringa\Desafio1_Monopoly\obj\Debug\netcoreapp2.0\Desafio1_Monopoly.pdb
