@@ -5,6 +5,7 @@ namespace Desafio1_Monopoly
 {
     class Program
     {
+        // Classe com as informações atuais do jogador
         public class Player
         {
             private int position, money;
@@ -74,7 +75,7 @@ namespace Desafio1_Monopoly
                 while(true)
                 {
                     int sum = 0;
-                    if(counterPlays < 4)
+                    if(counterPlays < 4)    // Realiza a jogada dos dados
                     {
                         Console.WriteLine(counterPlays.ToString() + "ª jogada");
                         firstDice  = rnd.Next(1, 7);
@@ -84,7 +85,7 @@ namespace Desafio1_Monopoly
 
                         sum += (firstDice + secondDice);
                         counterPlays++;
-                        if(firstDice != secondDice)
+                        if(firstDice != secondDice)     // Identifica double ou casas andadas
                         {
                             Console.WriteLine("     O jogador andará " + sum.ToString());
                             Player player = new Player(piece + sum, money, false);
@@ -95,7 +96,7 @@ namespace Desafio1_Monopoly
                             Console.WriteLine("     O jogador andará " + sum.ToString() + " e pode jogar de novo.");
                         }
                     }
-                    else
+                    else        // Identifica a prisão por 3 doubles seguidos
                     {
                         Console.WriteLine("     O jogador tirou 3 doubles e está preso.");
                         Player player = new Player(piece + sum, money, true);
@@ -103,7 +104,7 @@ namespace Desafio1_Monopoly
                     }
                 }
             }
-            else
+            else        // Está preso
             {
                 int i = 1;
                 int sum = 0;
@@ -117,7 +118,7 @@ namespace Desafio1_Monopoly
                     secondDice = rnd.Next(1, 7);
                     Console.WriteLine("     Segundo dado: " + secondDice.ToString());
 
-                    if(firstDice == secondDice)
+                    if(firstDice == secondDice)     // Se conseguiu double, pode sair da prisão sem pagamento
                     {
                         sum = firstDice + secondDice;
                         noPayment = true;
@@ -126,12 +127,12 @@ namespace Desafio1_Monopoly
                     i++;
                 }
 
-                if(noPayment)
+                if(noPayment)       // Saída sem pagamento
                 {
                     Player player = new Player(piece + sum, money, false);
                     return player;
                 }
-                else
+                else                // Saída com pagamento
                 {
                     Player player = new Player(piece + sum, money - 50, false);
                     return player;
